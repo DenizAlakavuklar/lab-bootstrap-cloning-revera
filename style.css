@@ -1,4 +1,18 @@
 #carouselExampleCaptions img {
     filter: grayscale(100%);
-  }
+}
 
+.deniz {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100%;
+    font-size: 20px;
+    text-align: justify;
+}
+
+#yunus {
+   background-color: black;
+}
